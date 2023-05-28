@@ -145,7 +145,7 @@ body{
     padding: 40px 15px 50px;
     margin-bottom: 10px;
 }
-.title{
+.title > a{
     color: var(--header-text);
     font-weight: 700;
     font-size: 44px;
